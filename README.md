@@ -1,7 +1,7 @@
 # GitHubSearcher
 GitHubSearcher iOS App
 
-Note to reviewer:
+#Note to Reviewer
 
 First off, this little assignment project I've built definitely has scope for further improvement. Due to time constraint, I'd 
 like to stop my work here and submit for review.
@@ -20,7 +20,7 @@ Also, I am listing some of the items I would've worked on or improved had I give
 
 and many more. I look forward to have a discussion with you soon. :)
 
-Thanks
+Thanks,
 Deepak
 
 
