@@ -34,6 +34,8 @@ class APIManager {
                 case 200:
                     let result = try! JSONDecoder().decode(T.self, from: unwrappedData)
                     completionHandler(result, urlResponse, error)
+                case 401:
+                    print("Unauthorized!!. Status Code \(httpResponse.statusCode).")
                 default:
                     print("Bummer!!. Status Code \(httpResponse.statusCode). This API probably has a rate-limit.")
                 }
