@@ -35,6 +35,6 @@ struct APIService: URLRequestConvertible {
     }
     
     public var headers: [String : String] {
-        return ["Authorization": "Bearer e77ad44bcc7798ee9205feee8ec7f92ef8b765c2"]
+        return ["Authorization": "Bearer 89503823e7ea65e58322dacbfdf85f95cb5d304b"]
     }
 }
